@@ -1,1 +1,33 @@
- What is Version Control?# H1
+This repository was created on **13 September 2026** for *CSE 1102 Section 11* in order to learn and practice Git.
+
+## **1. What is Version Control?**
+
+Version control is a system that **tracks and manages changes** in files and projects.
+
+## **2. What is Git?**
+
+*Git* is a **version control system** used to track changes in code and manage projects.
+
+## **3. What is GitHub?**
+
+**GitHub** is a platform where we can **store, manage, and collaborate** on Git repositories.
+
+## **4. What is Git Bash?**
+
+**Git Bash** is a command-line tool that allows us to use *Git commands* and communicate with Git.
+
+## **5. What are the main parts of GitHub?**
+
+The main parts of GitHub are:
+
+- **Local Repository**
+- *Remote Repository*
+
+## **6. What are the stages of Git/GitHub?**
+
+The main stages of Git are:
+
+- **Working Directory**
+- *Staging Area*
+- **Local Repository**
+- <u>Remote Repository</u>
